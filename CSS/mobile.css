@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.4em;
+}
+.box3 {
+    background: #f4f4f4;
+    border: 1px solid #333;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+#box-3 {
+    width: auto;
+    height: 100vh;
+    margin: 2px auto;
+    float: none;
+    background: purple;
+    border: 1px solid #333;
+    padding: 100px;
+    text-align: right;
+}
